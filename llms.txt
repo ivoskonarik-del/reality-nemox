@@ -1,0 +1,11 @@
+# Nemox
+
+> Nabídky nemovitostí kanceláře Nemox.
+
+- Web: https://www.nemox.cz/
+
+## Nabídky (4)
+- Prodej rodinného domu 208 m², pozemek 1639 m² — Borovnice, Cena na vyžádání: prodej-rodinneho-domu-208-m2-pozemek-1639-m2-1953968204/
+- Prodej rodinného domu 80 m², pozemek 133 m² — Jemnice, 990 000 Kč: prodej-rodinneho-domu-80-m2-pozemek-133-m2-2366910540/
+- Prodej chalupy 208 m², pozemek 1639 m² — Borovnice, Cena na vyžádání: prodej-chalupy-208-m2-pozemek-1639-m2-2541039692/
+- Prodej chalupy 90 m², pozemek 251 m² — Orlovice, 1 900 000 Kč: prodej-chalupy-90-m2-pozemek-251-m2-622534732/
